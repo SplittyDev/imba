@@ -1,0 +1,28 @@
+{
+  "name": "imba",
+  "version": "0.0.1",
+  "description": "The modern Jabber/XMPP client.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SplittyDev/imba.git"
+  },
+  "keywords": [
+    "Jabber",
+    "XMPP",
+    "Client",
+    "IM",
+    "Messenger",
+    "Instant",
+    "Messanger"
+  ],
+  "author": "SplittyDev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SplittyDev/imba/issues"
+  },
+  "homepage": "https://github.com/SplittyDev/imba#readme"
+}
